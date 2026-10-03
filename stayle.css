@@ -520,6 +520,7 @@ header{
     }
     .contant-right{
         padding-top: 150px;
+        display: none;
         
     }
     
